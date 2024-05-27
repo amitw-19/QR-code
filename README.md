@@ -23,8 +23,8 @@ This is a QR-code component page project made with using HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/amitw-19/QR-code]
+- Live Site URL: [https://payment-qr.netlify.app/]
 
 ### Built with
 
